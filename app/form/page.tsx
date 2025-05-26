@@ -46,7 +46,7 @@ const CITIES = [
 ]
 
 const GOOGLE_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbygyEMFohUdSuqhdd3JtHMneSVtZ6QsTG3bpzaFVzzyRqfBTa4_UK8p8e8qGsSdh8pEgQ/exec"
+  "https://script.google.com/macros/s/AKfycbx28X9Tr13Vkw3l8aLQ_P-BgLJVZgy6dp9frNgSaq_SaXD_hOwm56auPppzOS6ib_4-PA/exec"
 
 export default function LeadForm() {
   const [currentStep, setCurrentStep] = useState(1)
@@ -274,7 +274,7 @@ export default function LeadForm() {
               </ul>
             </div>
 
-            <a href="/" className="btn-primary">
+            <a href="kmgmt.co" className="btn-primary">
               Return to Homepage
             </a>
           </div>
